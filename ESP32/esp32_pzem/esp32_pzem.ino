@@ -60,10 +60,10 @@ PZEM004Tv30 pzem(PZEM_SERIAL);
 
 
 // Set these to run example.
-#define FIREBASE_HOST "https://smart-energy-meter-eb78f-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "5xWraUz78UMW0Ho54dx8g60Y8iKsZyThx2YcQoBn"
-#define WIFI_SSID "FiRaDay"
-#define WIFI_PASSWORD "frianto12610"
+#define FIREBASE_HOST "host"
+#define FIREBASE_AUTH "secret"
+#define WIFI_SSID "id"
+#define WIFI_PASSWORD "pw"
 
 
 
