@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T11:17:50.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="bvXYJWMhNLd3UbCd3gqJ" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T11:33:04.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ExMNQLJnDzmZllqjNTYP" version="15.8.6" type="github">
   <diagram id="GjpOPS8GUbDMK-W_BYCK" name="Page-1">
     <mxGraphModel dx="1038" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5hr4HWsf4Ftkd_aSTjP--108" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;ESP32 start dan memulai proses measurement arus listrik yang kemudian data dari hasil pengukuran tersebut dikirim menuju firebase melalui&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;protokol HTTP.&amp;nbsp;&lt;/span&gt;&lt;span&gt;Data yang terkirim akan disimpan kedalam Firebase Cloud, data tersebut kemudian bisa diakses oleh berbagai perangkat gadget&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;seperti komputer PC, Laptop maupun gadget seluler seperti smartphone atau tablet&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="5hr4HWsf4Ftkd_aSTjP--108" value="&lt;div style=&quot;text-align: justify&quot;&gt;ESP32 start dan memulai proses &lt;b&gt;measurement &lt;/b&gt;arus listrik yang kemudian data dari hasil pengukuran tersebut dikirim menuju firebase melalui&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;protokol HTTP.&amp;nbsp;&lt;/span&gt;&lt;span&gt;Data yang terkirim akan disimpan kedalam Firebase Cloud, data tersebut kemudian bisa diakses oleh berbagai perangkat gadget&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;seperti komputer PC, Laptop maupun gadget seluler seperti smartphone atau tablet&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="60" y="1030" width="780" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z0h7GTMCauXI6AeoXmrL-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="yhknBi5prWKLQfZ3NRB1-35" edge="1">
@@ -45,7 +45,7 @@
             <mxPoint x="431.9655172413793" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhknBi5prWKLQfZ3NRB1-37" value="Firebase" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;" parent="1" vertex="1">
+        <mxCell id="yhknBi5prWKLQfZ3NRB1-37" value="&lt;b&gt;Firebase&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=15;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="400" y="396" width="85" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yhknBi5prWKLQfZ3NRB1-49" value="" style="group" parent="1" vertex="1" connectable="0">
